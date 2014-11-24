@@ -1,0 +1,18 @@
+Machine:   DesignMonster.local in domain 
+User:      DesignMonster
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz
+           Model: 60, Family: 6, Stepping: 3 
+           Total Threads: 8
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AES AVX AVX2 FMA F16C POPCNT RDTSCP RDRAND
+Base path: /Applications/Adobe Premiere Pro CC 2014/Adobe Premiere Pro CC 2014.app/Contents/MacOS/
+Arguments: 
+
+21:22:34 [IrLog]           LogFile initialized
+21:22:34 [GlobalSettings]  Loading user settings from /Users/DesignMonster/Documents/Adobe/Lumetri/8.0/settings/User_Settings.xml
+21:22:56 [GlobalSettings]  Last object UID: 0x00000001
+21:22:56 [IrLog]           Closing log file
+
+11/24/14
